@@ -1,6 +1,6 @@
 # Green Web Land
 
-[WebAI](https://github.com/Green-Web-Land/WebAI) · [AI Introduction](https://github.com/Green-Web-Land/AI-Introduction) · [Essential Knowledge for Life](#essential-knowledge-for-life) · [About and contact](#about-and-contact)
+[WebAI](https://github.com/Green-Web-Land/WebAI) · [AI Introduction](https://github.com/Green-Web-Land/AI-Introduction) · [Essential Knowledge for Life](https://github.com/Green-Web-Land/Essential-for-Life) · [About and contact](#about-and-contact)
 
 Welcome to Green Web Land—a home for WebAI and practical learning materials.
 
@@ -29,7 +29,7 @@ For free reuse, including commercial reuse and adaptation, follow the [education
 
 **Planned—courses are not yet published.**
 
-Practical learning about everyday technology, money, family, work, science, our planet, space and personal care. Published materials will be linked here when available.
+Practical learning about everyday technology, money, family, work, science, our planet, space and personal care. [Explore the series and its planned topics](https://github.com/Green-Web-Land/Essential-for-Life).
 
 ## About and contact
 
@@ -44,3 +44,4 @@ For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Do
 ![Proposed WebAI Introduction page with lavender navigation, a welcome panel and guidance cards.](images/webai-introduction-design.png)
 
 *Introduction page design inspired by the historical Basic UI baseline. This is a design preview, not a screenshot of the current release. Software is not yet publicly available.*
+
