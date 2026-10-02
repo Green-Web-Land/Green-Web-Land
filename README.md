@@ -17,9 +17,9 @@ WebAI brings Document Library, Files and Folders, and Write a Book into a clear 
 
 Intelligent Help explains features; it does not read your private documents, execute commands or change application data. Built-in Help and the local AI option do not require a paid AI service. An optional OpenAI connection uses your own key, with no automatic paid fallback.
 
-Collapsible navigation, subsystem dashboards and a customizable interface translation help you make the workspace your own. WebAI is being prepared as a downloadable, self-contained Linux container to run in your own environment—not a hosted service.
+Collapsible navigation, subsystem dashboards and a customizable interface translation help you make the workspace your own. WebAI is available as a downloadable, self-contained Linux container to run in your own environment—not a hosted service.
 
-[Explore the WebAI project](https://github.com/Green-Web-Land/WebAI). **The evaluation demo is in preparation; software downloads are not yet publicly available.** The planned demo will invite testing, usability feedback, enhancement ideas and translation contributions. It is not a production-ready release.
+[Explore the WebAI project](https://github.com/Green-Web-Land/WebAI) or [download WebAI 0.7.1 Preview](https://github.com/Green-Web-Land/WebAI/releases/tag/v0.7.1-preview.1). **Demo under QA—not production-ready.** We welcome testing, usability feedback, enhancement ideas and translation contributions. Read the installation guide and evaluation limitations before use.
 
 ## AI Introduction
 
@@ -54,5 +54,5 @@ For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Do
 
 ![WebAI Home introducing Document Library, Files and Folders, Write a Book and intelligent Help, with collapsed navigation groups](https://raw.githubusercontent.com/Green-Web-Land/Green-Web-Land/main/images/webai-home.jpg)
 
-*Actual evaluation-workspace screenshot using a synthetic account. Home introduces the features; Dashboard provides authorized subsystem summaries. Software is not yet publicly available.*
+*Actual evaluation-workspace screenshot using a synthetic account. Home introduces the features; Dashboard provides authorized subsystem summaries. The downloadable demo is available for evaluation under QA.*
 
