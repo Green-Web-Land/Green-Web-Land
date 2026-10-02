@@ -6,9 +6,20 @@ Welcome to Green Web Land—a home for WebAI and practical learning materials.
 
 ## WebAI
 
-A web experience for working with data through natural language. WebAI is constantly under development and expansion. Software is not yet publicly available.
+**Your documents, your files, your ideas — one workspace to bring them together.**
 
-[Explore the public introduction](https://github.com/Green-Web-Land/WebAI). Help and software availability will be described in the project as they are published.
+WebAI brings Document Library, Files and Folders, and Write a Book into a clear browser workspace. Keep document revisions, organize files, shape a manuscript and find guidance without leaving the application.
+
+- **Document Library:** create and find documents, compare revisions and manage sharing.
+- **Files and Folders:** browse, copy, move and organize files with explicit operation reviews.
+- **Write a Book:** bring chapters together, retain manuscript revisions and export your writing.
+- **AI Assistant:** ask questions about the software or a subsystem, with answers grounded in its built-in Help and links to relevant guidance.
+
+Intelligent Help explains features; it does not read your private documents, execute commands or change application data. Built-in Help and the local AI option do not require a paid AI service. An optional OpenAI connection uses your own key, with no automatic paid fallback.
+
+Collapsible navigation, subsystem dashboards and a customizable interface translation help you make the workspace your own. WebAI is being prepared as a downloadable, self-contained Linux container to run in your own environment—not a hosted service.
+
+[Explore the WebAI project](https://github.com/Green-Web-Land/WebAI). **The evaluation demo is in preparation; software downloads are not yet publicly available.** The planned demo will invite testing, usability feedback, enhancement ideas and translation contributions. It is not a production-ready release.
 
 ## AI Introduction
 
@@ -41,7 +52,7 @@ For private enquiries, email [us@itisthebest.com](mailto:us@itisthebest.com). Do
 
 ## A look at WebAI
 
-![Proposed WebAI Introduction page with lavender navigation, a welcome panel and guidance cards.](images/webai-introduction-design.png)
+![WebAI Home introducing Document Library, Files and Folders, Write a Book and intelligent Help, with collapsed navigation groups](https://raw.githubusercontent.com/Green-Web-Land/Green-Web-Land/main/images/webai-home.jpg)
 
-*Introduction page design inspired by the historical Basic UI baseline. This is a design preview, not a screenshot of the current release. Software is not yet publicly available.*
+*Actual evaluation-workspace screenshot using a synthetic account. Home introduces the features; Dashboard provides authorized subsystem summaries. Software is not yet publicly available.*
 
