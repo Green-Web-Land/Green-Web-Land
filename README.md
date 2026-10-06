@@ -23,11 +23,13 @@ Collapsible navigation, subsystem dashboards and a customizable interface transl
 
 ## AI Introduction
 
-**Learn to use AI well—and remain able to think, choose and act for yourself.**
+**Your choices matter. Learn. Question. Decide.**
 
 Read about what AI can do, its limitations, checking information, privacy, responsible choices and possible futures.
 
-Available courses:
+Start with [Living and Working with AI](https://github.com/Green-Web-Land/AI-Introduction/tree/main/courses/living-working-ai), an eight-lesson course about everyday life, changing work, society and your next steps.
+
+Other starting points:
 - [Adult beginners](https://github.com/Green-Web-Land/AI-Introduction/blob/main/courses/adults/CURRICULUM.md)
 - [Kids, ages 9–12](https://github.com/Green-Web-Land/AI-Introduction/blob/main/courses/kids/CURRICULUM.md)
 - [Teenagers, ages 13–17](https://github.com/Green-Web-Land/AI-Introduction/blob/main/courses/teenagers/CURRICULUM.md)
@@ -38,9 +40,9 @@ For free reuse, including commercial reuse and adaptation, follow the [education
 
 ## Essential Knowledge for Life
 
-**Planned—courses are not yet published.**
+**Thirteen courses are available now.**
 
-Practical learning about everyday technology, money, family, work, science, our planet, space and personal care. [Explore the series and its planned topics](https://github.com/Green-Web-Land/Essential-for-Life).
+Practical learning about everyday technology, money, family, work, science, our planet, space and personal care. [Explore the courses](https://github.com/Green-Web-Land/Essential-for-Life).
 
 ## About and contact
 
